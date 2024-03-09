@@ -7,11 +7,11 @@ category, ratings, price, and so on.
 
 
 **Usage** :
-1. Clone the repository
-   git clone https://github.com/rishihjain/Product_review_Website_mamearth.git
+1. Clone the repository :
+   'git clone https://github.com/rishihjain/Product_review_Website_mamearth.git'
    
-2. Install project dependencies
-   pip install -r requirements.txt
+2. Install project dependencies :
+   'pip install -r requirements.txt'
    
-3. Run the Flask web application
-   python main.py
+3. Run the Flask web application :
+   'python main.py'
